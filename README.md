@@ -1,20 +1,20 @@
-# 🌸 Welcome to the Library Management System API! 📚
+#  Welcome to the Library Management System API! 
 
-This project is your go-to tool for managing library resources effortlessly. With this API, you can:
+This project is a powerful tool designed to simplify the management of library resources. With this API, you can:
 
-- **Add and manage books and users.**
+- **Easily add and manage both books and users..**
 - **Check books in and out with ease.**
-- **Keep track of available books in real-time.**
+- **KKeep track of available books in real-time.**
 
-💡 **Built with love** using Python and the Django framework, this API ensures efficiency and simplicity. 
+ **Created with care and attention.** using Python and the Django framework, this API ensures efficiency and simplicity. 
 
 ---
 
-### **📚 How to Install and Run the Project 🛠️**
+### ** Installation and Running the Project **
 
-1. **Fork the project** from GitHub and clone it to your local machine Using this :
+1. **Fork the project** from GitHub and clone it to your local machine using the following command: :
 ```bash
-git clone https://github.com/Haikumma/Library_Management_System.git
+git clone https://github.com/Zakariakai/Alx-Library-Management-Project
 ```
    
 2. **Install dependencies:** Navigate to the project directory and install the required dependencies using pip:
@@ -29,11 +29,11 @@ python manage.py runserver
 ```
 
 ---
-### **💖 How to Use the API**
+### ** How to Use the API**
 
-Let’s dive into the magic! ✨
+Let’s dive into the magic! 
 
- **📚 Implemented Endpoints:**<br/>
+ ** Implemented Endpoints:**<br/>
 **1.GET /api/books/**
   
   -**Description:** Retrieve a list of all available books.<br/>
@@ -85,19 +85,19 @@ Let’s dive into the magic! ✨
 -d '{"book_id": 1}'
 ```
 ---
-### **🌸 Additional Features**
+### ** Additional Features**
   -**Books Management**: Add, edit, or delete books and search for your favorite titles.<br/>
   -**User Management**: Register, update, or remove users and view all library members.<br/>
   -**Checkout & Return**: Borrow books and link them to users, then return them and track their availability.<br/>
 ---
-### **💖 How to Connect with Frontend or Use Postman**
-Feel free to use Postman or connect the API to your frontend for a seamless library experience! 💖
+### ** How to Connect with Frontend or Use Postman**
+Feel free to use Postman or connect the API to your frontend for a seamless library experience! 
 ---
-### **🪄 License**
+### ** License**
 This project is under the **MIT License**.  
-Feel free to **use**, **modify**, and **share** it however you like! ✨
+Feel free to **use**, **modify**, and **share** it however you like! 
 ---
-### 💻**Tech Used**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### **Tech Used**
+![Python]
+![Django]
+![SQLite]
