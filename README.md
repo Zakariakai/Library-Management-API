@@ -14,7 +14,7 @@ This project is a powerful tool designed to simplify the management of library r
 
 1. **Fork the project** from GitHub and clone it to your local machine using the following command: :
 ```bash
-git clone https://github.com/Zakariakai/Alx-Library-Management-Project
+git clone https://github.com/Zakariakai/Library-Management-API
 ```
    
 2. **Install dependencies:** Navigate to the project directory and install the required dependencies using pip:
